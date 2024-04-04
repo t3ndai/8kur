@@ -1,0 +1,8 @@
+node_modules
+# Keep environment variables out of version control
+.env
+# vscode stuff 
+._*
+# certs
+8kur.net+2.pem
+8kur.net+2-key.pem
