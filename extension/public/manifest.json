@@ -22,7 +22,8 @@
 	"content_scripts": [
 		{
 			"matches": ["*://news.ycombinator.com/*"],
-			"js": ["hn-content-script.js"]
+			"js": ["hn-content-script.js"],
+			"run_at": "document_end"
 		  }
 	]
 }

@@ -1,3 +1,21 @@
 Headlines 
 
 1. Save and Sort your HN favorites 
+2. Import your Youtube Playlists 
+3. Import your Spotify Playlists 
+4  Import your podcast playlists 
+
+
+
+# Clean up Todo'
+1. Clean up crawler not to save storage folder but use memory storage 
+2. Extension should have a badge when it has done crawling and successfully
+    upload items to server 
+3. 
+
+# Achievement log 
+apr_08_24: can import and save hn posts -- that's if ip is not blocked 
+apr_12_24: browser(chrome) extension to get all favorite comments 
+    -- much better than scrapping as it's done on the user's side 
+    -- which means no IP blocks etc 
+ 
